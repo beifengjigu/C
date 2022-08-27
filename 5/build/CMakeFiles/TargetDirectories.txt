@@ -1,0 +1,6 @@
+/home/qiupeng/C/5/build/CMakeFiles/rebuild_cache.dir
+/home/qiupeng/C/5/build/CMakeFiles/edit_cache.dir
+/home/qiupeng/C/5/build/CMakeFiles/project5.dir
+/home/qiupeng/C/5/build/Server/CMakeFiles/rebuild_cache.dir
+/home/qiupeng/C/5/build/Server/CMakeFiles/edit_cache.dir
+/home/qiupeng/C/5/build/Server/CMakeFiles/server.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/hello_test.dir/hello_test.cpp.o  -o hello_test  -Wl,-rpath,/home/qiupeng/C/7/build/hello ../hello/libhello.so 

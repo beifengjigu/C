@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/project3.dir/main.cpp.o  -o project3  -Wl,-rpath,/home/qiupeng/C/3/build/hello hello/libhello.so 

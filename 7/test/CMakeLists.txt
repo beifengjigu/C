@@ -1,0 +1,6 @@
+add_executable(hello_test hello_test.cpp)
+target_link_libraries(hello_test hello)
+add_test(NAME num_test1 COMMAND hello_test 1)
+add_test(NAME num_test2 COMMAND hello_test 2)
+add_test(NAME num_test3 COMMAND hello_test 3)
+add_test(NAME num_test4 COMMAND hello_test 4)

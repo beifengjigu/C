@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../hello/hello.h
+iostream
+-
+
+/home/qiupeng/C/7/test/hello_test.cpp
+hello.h
+/home/qiupeng/C/7/test/hello.h
+iostream
+-
+assert.h
+-
+unistd.h
+-
+

@@ -1,0 +1,6 @@
+/home/qiupeng/C/6/build/CMakeFiles/rebuild_cache.dir
+/home/qiupeng/C/6/build/CMakeFiles/edit_cache.dir
+/home/qiupeng/C/6/build/CMakeFiles/project6.dir
+/home/qiupeng/C/6/build/hello/CMakeFiles/rebuild_cache.dir
+/home/qiupeng/C/6/build/hello/CMakeFiles/edit_cache.dir
+/home/qiupeng/C/6/build/hello/CMakeFiles/hello.dir

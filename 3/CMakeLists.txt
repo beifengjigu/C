@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16.2)
+project(project3)
+include_directories(. ./hello)
+aux_source_directory(. DIRSRC)
+add_subdirectory(hello)
+add_executable(${PROJECT_NAME} ${DIRSRC})
+target_link_libraries(${PROJECT_NAME} hello)

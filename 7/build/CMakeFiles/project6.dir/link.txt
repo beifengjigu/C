@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/project6.dir/main.cpp.o  -o project6  -Wl,-rpath,/home/qiupeng/C/7/build/hello hello/libhello.so 

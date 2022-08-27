@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/project3.dir/main.cpp.o  -o project3   -L/home/qiupeng/C/4/hello/lib  -Wl,-rpath,/home/qiupeng/C/4/hello/lib -lhello 
